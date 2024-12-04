@@ -1,0 +1,50 @@
+Total commander file list (copy)
+Total files: 7
+/storage/emulated/0/Virus F
+ParentaVirus/	0	2024-12-03 14:27:19
+VIRUSPARENKOTEMP Ps Complai/	0	2024-12-03 14:06:59
+VIRUSTENKOTEMP S Complai/	0	2024-12-03 14:05:17
+AntiVirus	7	2024-12-03 14:09:42
+AntiVirus:Zone.Identifier	84	2024-12-03 14:09:42
+Virus F	5	2024-12-03 14:08:10
+Virus F:Zone.Identifier	84	2024-12-03 14:08:10
+
+Total commander file list (copy)
+Total files: 8
+/storage/emulated/0/Virus F/ParentaVirus
+AntiVirus/	0	2024-12-03 14:14:54
+[11]7814154819784C3133_200_300.jpg	27479	2024-11-26 19:04:20
+[11]7814154819784C3133_200_300.PNG	20802	2024-12-03 14:21:17
+11[78]14154819784C3133_200_300.jpg	31115	2024-11-26 19:02:56
+11[78]14154819784C3133_200_300.PNG	16106	2024-12-03 14:27:19
+11+1415.bmp	811814	2024-11-27 12:46:56
+4819e ozempte des stampta o temps des zo englaits.bmpm.bmp.mmp.bmp	206718	2024-11-17 16:35:00
+78787878787878.                    B'mp.bmp	180054	2024-11-27 13:01:08
+
+Total commander file list (copy)
+Total files: 2
+/storage/emulated/0/Virus F/ParentaVirus/AntiVirus
+Norton	3	2024-12-03 14:14:54
+Norton:Zone.Identifier	84	2024-12-03 14:14:54
+
+Total commander file list (copy)
+Total files: 9
+/storage/emulated/0/Virus F/VIRUSPARENKOTEMP Ps Complai
+2.K9	8	2024-12-03 14:00:31
+2.K9:Zone.Identifier	84	2024-12-03 14:00:31
+ga5af6ff0e60446358bf175b23a85e1c62340c44d49e14a288ff9237947075f07 (1).png	126319	2024-12-03 13:06:13
+ga5af6ff0e60446358bf175b23a85e1c62340c44d49e14a288ff9237947075f07 (1).png:Zone.Identifier	63	2024-12-03 13:06:13
+ga5af6ff0e60446358bf175b23a85e1c62340c44d49e14a288ff9237947075f07 (2).png	47882	2024-12-03 13:04:45
+ga5af6ff0e60446358bf175b23a85e1c62340c44d49e14a288ff9237947075f07 (2).png:Zone.Identifier	63	2024-12-03 13:04:45
+ga5af6ff0e60446358bf175b23a85e1c62340c44d49e14a288ff9237947075f07.png	86847	2024-12-03 13:02:01
+ga5af6ff0e60446358bf175b23a85e1c62340c44d49e14a288ff9237947075f07.png:Zone.Identifier	63	2024-12-03 13:02:01
+VIRUSPARENKOTEMP Ps Complai.PNG	49449	2024-12-03 14:06:59
+
+Total commander file list (copy)
+Total files: 5
+/storage/emulated/0/Virus F/VIRUSTENKOTEMP S Complai
+g56485b24989941e999e1ee856d5b08db3b84eb6e1cfc4d38908f0c95c08090e6.png	37163	2024-12-03 14:03:42
+g56485b24989941e999e1ee856d5b08db3b84eb6e1cfc4d38908f0c95c08090e6.png:Zone.Identifier	63	2024-12-03 14:03:42
+K29	11	2024-12-03 14:05:17
+K29:Zone.Identifier	84	2024-12-03 14:05:17
+VIRUSTANKOTEMPS.PNG	13521	2024-12-03 14:03:35
